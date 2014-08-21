@@ -1,5 +1,7 @@
 ValleyScroll(tm)
 
+A simple script to give your website that Silicon Valley flair
+
 Usage:
 
-<script src="https://
+<script src="valley-scroll.js"></script>
