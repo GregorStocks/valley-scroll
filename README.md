@@ -4,4 +4,4 @@ A simple script to give your website that Silicon Valley flair
 
 Usage:
 
-<script src="valley-scroll.js"></script>
+  <script src="valley-scroll.js"></script>
