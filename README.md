@@ -1,6 +1,6 @@
 ValleyScroll(tm)
 
-A simple script to give your website that Silicon Valley flair
+A simple script to give your website that Silicon Valley flair.
 
 Usage:
 
