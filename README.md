@@ -1,6 +1,6 @@
-ValleyScroll(tm)
+valley-scroll.js
 
-A simple script to give your website that Silicon Valley flair.
+A simple script to give your website's scrolling that Silicon Valley flair.
 
 Usage:
 
